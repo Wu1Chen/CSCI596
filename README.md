@@ -13,29 +13,29 @@
    For people who have direct contact with infected people, we give priority to testing. For people who have indirect contact with infected people, we will test them in order according to their value.
    
 ### Input：
-A B C D
-B A G
-C A E G
-D A E F G
-E C D G
-F D G
-G B C D E F
+A B C D  
+B A G  
+C A E G  
+D A E F G  
+E C D G  
+F D G  
+G B C D E F  
 
-(A-B 0
-B-C 1
-C-D 1
-.......
-A-E 1
-A-G 1
-D-G 1
-E-A 0
-.......
-A-E 1)
+(A-B 0  
+B-C 1  
+C-D 1  
+.......  
+A-E 1  
+A-G 1  
+D-G 1  
+E-A 0  
+.......  
+A-E 1)  
 
 ### Result：
-A-B 0
-...
-A-E 2
-A-F 1
-A-G 3
-...
+A-B 0  
+...  
+A-E 2  
+A-F 1  
+A-G 3  
+...  
