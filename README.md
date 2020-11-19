@@ -10,7 +10,7 @@
 ![image](https://github.com/Wu1Chen/CSCI596/blob/master/pic01.png)
 
 # Our solution
-   For people who have direct contact with infected people, we give priority to testing. For people who have indirect contact with infected people, we will test them in order according to their value.
+   For people who have direct contact with infected people, we give priority to testing. For people who have indirect contact with infected people, we will test them in order according to the 'value'.
    
 ### Input：
 A B C D  
@@ -27,8 +27,7 @@ C-D 1
 .......  
 A-E 1  
 A-G 1  
-D-G 1  
-E-A 0  
+D-G 1    
 .......  
 A-E 1)  
 
