@@ -6,3 +6,5 @@
 # What is MapReduce?
 
   MapReduce is a programming model or pattern within the Hadoop framework that is used to access big data stored in the Hadoop File System. Unlike the traditional data processing system, MapReduce can implement for processing huge amount of data in short with a parallel, distributed algorithm on a cluster.
+
+![image](https://github.com/Wu1Chen/CSCI596/blob/master/pic01.png)
